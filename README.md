@@ -1,1 +1,1 @@
-# natours-advanced-css-cours
+# natours-advanced-css-course
